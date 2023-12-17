@@ -1,5 +1,5 @@
 function obtenerMensaje(){
-    return "¡Hola Mundo!";
+    return "¡Hola ITLA!";
 }
 
 module.exports = obtenerMensaje;
